@@ -70,6 +70,7 @@ Results and models are available in the [Model zoo](docs/MODEL_ZOO.md).
 | FreeAnchor         | ✓        | ✓        | ☐        | ✗        | ✓     |
 | NAS-FPN            | ✓        | ✓        | ☐        | ✗        | ✓     |
 | ATSS               | ✓        | ✓        | ☐        | ✗        | ✓     |
+| Dynamic R-CNN      | ✓        | ✓        | ☐        | ✗        | ✓     |
 
 Other features
 - [x] [CARAFE](configs/carafe/README.md)

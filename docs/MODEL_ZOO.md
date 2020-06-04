@@ -290,6 +290,9 @@ Please refer to [NAS-FPN](https://github.com/open-mmlab/mmdetection/blob/master/
 ### ATSS
 Please refer to [ATSS](https://github.com/open-mmlab/mmdetection/blob/master/configs/atss) for details.
 
+### Dynamic R-CNN
+Please refer to [Dynamic R-CNN](https://github.com/hkzhang95/DynamicRCNN-mmdetV1.1/blob/master/configs/dynamic_rcnn) for details.
+
 ### Other datasets
 
 We also benchmark some methods on [PASCAL VOC](https://github.com/open-mmlab/mmdetection/blob/master/configs/pascal_voc), [Cityscapes](https://github.com/open-mmlab/mmdetection/blob/master/configs/cityscapes) and [WIDER FACE](https://github.com/open-mmlab/mmdetection/blob/master/configs/wider_face).
