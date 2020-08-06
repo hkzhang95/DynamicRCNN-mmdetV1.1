@@ -1,3 +1,11 @@
+# Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training
+
+By [Hongkai Zhang](https://hkzhang95.github.io/), [Hong Chang](https://scholar.google.com/citations?user=LX6MnNsAAAAJ&hl=en), [Bingpeng Ma](http://people.ucas.edu.cn/~bpma), [Naiyan Wang](https://winsty.net/), [Xilin Chen](http://vipl.ict.ac.cn/en/people/~xlchen).
+
+This project is based on MMDetection V1.1. You can click this [page](https://github.com/hkzhang95/DynamicRCNN-mmdetV1.1/tree/master/configs/dynamic_rcnn) to check the results and trained models.
+
+**Our method is also merged into the official MMDetection repo at this [link](https://github.com/open-mmlab/mmdetection/tree/master/configs/dynamic_rcnn) now.**
+
 # MMDetection
 
 **News**: We released the technical report on [ArXiv](https://arxiv.org/abs/1906.07155).
